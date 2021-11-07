@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473749175158",
+    "project_id": "instagram-clone-c8e85",
+    "storage_bucket": "instagram-clone-c8e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473749175158:android:667c6247bed2bd9d6b1857",
+        "android_client_info": {
+          "package_name": "com.appdeveloper.siva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473749175158-qub9dheufqi3a77it9igvln626hb3aun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appdeveloper.siva",
+            "certificate_hash": "1c32be531da6b58a26bab516b264a7f4c16c4602"
+          }
+        },
+        {
+          "client_id": "473749175158-mium9fct5pk6sivo7i6opjknomjsefbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD_YLddvTkju9X9U6cpgnSA0rDuiWf38M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473749175158-mium9fct5pk6sivo7i6opjknomjsefbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
